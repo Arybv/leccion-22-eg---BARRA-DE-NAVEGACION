@@ -1,0 +1,22 @@
+/*BARRA DE NAVEGACIÓN*/
+ul{
+  background-color: black;
+}
+
+li{
+  display: inline-block;
+  padding: 20px;
+  list-style: none;
+}
+a{
+  color: whitesmoke;
+  text-decoration: none; /*LE QUITA LA RAYITA*/
+  padding: 10px;
+}
+a:hover{
+  color: green; /*CUANDO PASA EL CURSOR, SE MUESTRA DE COLOR VERDE*/
+}
+span{
+  color:red;
+  margin: 0 100px;
+}
